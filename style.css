@@ -1,0 +1,17 @@
+#logo {
+    width: 33.3%;
+    height: 10%;
+    max-width: fit-content;
+    margin: 10% auto 10% 33.3%;
+}
+
+main {
+    white-space: nowrap;
+   
+    text-overflow: scroll;
+}
+ 
+h1 {
+    font-size: 2em;
+    font-weight: 900;
+}
